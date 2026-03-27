@@ -73,6 +73,11 @@ main  a {
     color: #74C697;
 }
 
+.bugdroid {
+    width: 50%;
+    margin: auto;
+}
+
 article > h1 {
     font-family: 'IDroid';
     color: #115631;
