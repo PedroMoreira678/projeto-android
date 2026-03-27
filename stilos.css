@@ -68,6 +68,11 @@ main {
     border-radius: 0px 0px 10px 10px;
 }
 
+main  a {
+    text-decoration: none;
+    color: #74C697;
+}
+
 article > h1 {
     font-family: 'IDroid';
     color: #115631;
